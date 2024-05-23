@@ -3,7 +3,7 @@
 # generate server.pem with the following command:
 #    openssl req -new -x509 -keyout server.pem -out server.pem -days 365 -nodes
 # how to run:
-#    python simple-https-server.py
+#    python2 py2.https.server.py
 # in browser:
 #    https://localhost
 
